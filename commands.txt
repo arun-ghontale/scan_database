@@ -1,1 +1,2 @@
 set NODE_TLS_REJECT_UNAUTHORIZED=0##optional
+node csv_to_json.js file="FINAL_EVAL_2018-11-26.csv"
